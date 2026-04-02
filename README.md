@@ -16,8 +16,8 @@ Ikuti aturan di setiap level
 Pecahkan puzzle untuk lanjut ke level berikutnya
 Selesaikan semua level untuk menjadi pemenang
 
-📂 File
-File utama game ada di repository ini
+📂 Asset
+Asset tidak disertakan dalam repo ini!!!
 
 ⚠️ Catatan
 Game ini masih dalam tahap pengembangan, jadi mungkin masih ada bug atau fitur yang akan ditambahkan ke depannya.
