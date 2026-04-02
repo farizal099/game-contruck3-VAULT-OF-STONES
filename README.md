@@ -24,5 +24,3 @@ Game ini masih dalam tahap pengembangan, jadi mungkin masih ada bug atau fitur y
 
 🚀 Tujuan
 Game ini dibuat untuk melatih kemampuan berpikir logis dan memberikan pengalaman bermain yang seru dan menantang.
-
-Asset tidak disertakan dalam repo ini!!!
