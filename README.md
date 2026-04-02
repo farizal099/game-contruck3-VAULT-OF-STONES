@@ -16,7 +16,7 @@ Ikuti aturan di setiap level
 Pecahkan puzzle untuk lanjut ke level berikutnya
 Selesaikan semua level untuk menjadi pemenang
 
-📂 Asset
+📂
 Asset tidak disertakan dalam repo ini!!!
 
 ⚠️ Catatan
