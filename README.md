@@ -172,7 +172,6 @@ game-contruck3-VAULT-OF-STONES/
 │   └── proses-pembuatan.png
 ├── fileprojekgame.c3p
 ├── README.md
-└── LICENSE
 ```
 
 Keterangan file:
@@ -185,7 +184,6 @@ Keterangan file:
 | `images/proses-pembuatan.png` | Screenshot tampilan akhir permainan |
 | `fileprojekgame.c3p` | File utama proyek Construct 3 |
 | `README.md` | Dokumentasi proyek |
-| `LICENSE` | Ketentuan penggunaan proyek apabila ditambahkan |
 
 ---
 
@@ -239,10 +237,10 @@ Pengembang game **VAULT OF STONES** menggunakan Construct 3.
 
 ---
 
-## 📄 Catatan Asset dan Lisensi
+## 📄 Catatan Asset 
 
 Proyek ini dikembangkan sebagai proyek pembelajaran dan portofolio pengembangan game.
 
 Screenshot yang ditampilkan dalam repository merupakan dokumentasi tampilan game. Untuk asset seperti karakter, tombol, logo, audio, atau elemen visual lainnya yang berasal dari pihak ketiga, penggunaannya tetap mengikuti lisensi dan ketentuan dari pemilik asset masing-masing.
 
-Repository dapat diberikan lisensi open-source apabila seluruh file dan asset yang dibagikan telah dipastikan memiliki izin untuk dipublikasikan.
+Repository dapat diberikan open-source apabila seluruh file dan asset yang dibagikan telah dipastikan memiliki izin untuk dipublikasikan.
